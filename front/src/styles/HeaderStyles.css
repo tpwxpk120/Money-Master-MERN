@@ -1,0 +1,44 @@
+/* HeaderStyles.css */
+
+.navbar {
+  background-color: #6f4e3742;
+  display: flex;
+  justify-content: space-around
+  
+}
+
+.navbar .navbar-brand {
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-right: auto;
+}
+
+.btn-danger {
+  align-self: flex-end;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+
+.navbar .navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-item:nth-child(1) {
+  margin-right: 20px; 
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
