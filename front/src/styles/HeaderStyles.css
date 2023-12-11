@@ -1,0 +1,43 @@
+/* HeaderStyles.css */
+
+.navbar {
+  background-color: #F77C7D;
+  display: flex;
+  justify-content: space-around
+  
+}
+
+.navbar .navbar-brand {
+  color: #000000;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-right: auto;
+  font-family: 'Radio Canada', sans-serif;
+  
+}
+
+.btn-danger {
+  align-self: flex-end;
+}
+
+.nav-link {
+  font-size: 2px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  font-family: 'Radio Canada', sans-serif;
+}
+
+
+.navbar .navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-item:nth-child(1) {
+  margin-right: 20px; 
+}
+

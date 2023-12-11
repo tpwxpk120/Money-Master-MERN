@@ -1,0 +1,62 @@
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  }
+
+.login-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+.login-page h1,
+.login-page h2 {
+  font-size: 20px;;
+  text-align: center;
+  font-weight: bold;
+  color: #b87333;
+  font-family: 'Radio Canada', sans-serif;
+}
+
+
+.login-form a {
+  color: #b87333 !important;
+  padding: 30px;
+}
+
+.login-form a:hover {
+  color: black !important;
+}
+
+.login-form button {
+  background-color: #b87333;
+  color: white;
+}
+
+.login-form input:focus {
+  border: 1px solid #b87333 !important;
+  color: #b87333;
+}
+
+.login-form button:hover {
+  background-color: black;
+  color: white;
+}
+
+.col-md-6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.col-md-6 img {
+  width: 50%;
+  height: 50;
+  max-width: 100%;
+  max-height: 100%;
+}
