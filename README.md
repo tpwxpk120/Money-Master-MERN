@@ -66,21 +66,19 @@ npm start
 
 ### Preview:
 [Homepage]
-
+<img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(291).png">
 
 [Register Page]
-
+<img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(289).png">
 
 
 [Login Page]
-
+<img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(290).png">
 
 
 
 
 ### Demonstration:
-[Mockup] 
-
 [Video]            
 
 [Slides] 
