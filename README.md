@@ -65,6 +65,9 @@ npm start
 
 
 ### Preview:
+[Color Palette]
+<img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/color.png">
+
 [Homepage]
 <img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(291).png">
 
