@@ -3,7 +3,7 @@ Money tracking website called Money Master will help users manage their finances
 
 
 # CS5610-Project-Four
-### Project 4 : Money Master ()
+### Project 4 : Money Master (https://money-master-mern.onrender.com)
 #### [Money Master] 
 Based on JavaScript, CSS, HTML, and React, Vite, Express Node, Node JS, MongoDB.                                                                        
 CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)                         
@@ -84,7 +84,9 @@ npm start
 ### Demonstration:
 [Video]            
 
-[Slides] 
+[Slides] https://docs.google.com/presentation/d/1UkyFX-XqfZ1gMnJwMv2bXpNQgxXl3eIRVy344Qnd7Hs/edit?usp=sharing
+
+[Usability study] 
 
 
 ###  Copyright:
