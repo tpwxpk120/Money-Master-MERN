@@ -22,17 +22,18 @@ Our solution will integrate a vibrant front-end interface with a robust back-end
 1) User Registration and Authentication:
 Users can create accounts with a unique username and password. 
 User registration includes validation and email verification for security.
+Added passport.js for login
 
-2) Users will have access to a personalized dashboard.
+3) Users will have access to a personalized dashboard.
 The dashboard will display the user's current financial status, including income, expenses, and savings.
 Real-time updates on financial data to keep users informed.
 
-3) The app will generate insightful reports and graphs.
+4) The app will generate insightful reports and graphs.
 These reports and graphs will help users understand their spending habits and financial health.
 Visualization of income versus expenses, savings trends, and spending by category.
 Detailed transaction history with filters and search functionality.
 
-4) Data Storage and Retrieval using MongoDB:
+5) Data Storage and Retrieval using MongoDB:
 MongoDB will serve as the database for storing user account data, financial transactions, and settings.
 Users' financial data will be securely stored and organized in MongoDB collections.
 Efficient data retrieval for quick access to user-specific information.
