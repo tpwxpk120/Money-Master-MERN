@@ -86,8 +86,8 @@ npm start
 
 [Slides] https://docs.google.com/presentation/d/1UkyFX-XqfZ1gMnJwMv2bXpNQgxXl3eIRVy344Qnd7Hs/edit?usp=sharing
 
-[Usability study] https://drive.google.com/drive/folders/1SY3QPWH7-Hw-Ja7T-Ngr_F5HMIRF5v1U?usp=sharing
-
+[Usability study video] https://drive.google.com/drive/folders/1SY3QPWH7-Hw-Ja7T-Ngr_F5HMIRF5v1U?usp=sharing 
+[Usability study report] https://docs.google.com/document/d/1WP65kF7xgWgSIYSuOmQ-2yryMbZRJSfXX1mFhcqbPLc/edit?usp=sharing
 
 ###  Copyright:
 This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
