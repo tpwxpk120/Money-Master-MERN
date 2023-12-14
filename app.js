@@ -1,24 +1,31 @@
 import express from "express";
 import morgan from "morgan";
 import dotenv from "dotenv";
+
 import { connectToMongoDB } from "./db/mydb.js";
 import { fileURLToPath } from "url";
 import { userRouter } from "./routes/userRoutes.js";
 import { router } from "./routes/expenseRoutes.js";
+
 import path, { dirname } from "path";
-import cors from "cors";
+import cors from "cors"; // is using cors good practice?
 import session from "express-session";
 import passport from "passport";
 import "./passport/passport.js";
 import bodyParser from "body-parser";
+
 // Configuring the environment variables
 dotenv.config();
-connectToMongoDB();
+connectToMongoDB(); // why are we connecting to mongoDB when the express server loads?
 
 
 // Rest object
 const app = express();
 const PORT = 4000;
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
@@ -32,8 +39,6 @@ app.use(passport.authenticate("session"));
 app.use(passport.initialize());
 app.use(passport.session());
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
 
 app.use(cors());
 app.use(morgan("dev"));
@@ -41,6 +46,7 @@ app.use(morgan("dev"));
 // Transactions routes
 app.use("/api/v1/transactions", router);
 app.use("/api/v1/user", userRouter);
+
 // Static files
 app.use(express.static(path.join(__dirname, "front", "dist")));
 
