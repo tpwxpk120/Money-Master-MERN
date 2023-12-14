@@ -13,6 +13,7 @@ const isAuthenticated = (req, res, next) => {
   });
 };
 
+// these CRUD operation should be in its own db file in the db directory
 const getAllTransection = async (req, res) => {
   try {
     const db = await connectToMongoDB();
