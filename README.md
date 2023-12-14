@@ -2,21 +2,26 @@
 Money tracking website called Money Master will help users manage their finances more effectively. This app will be built using modern technologies, including React for the front end, Node.js for the back end, and MongoDB as the database. The goal of this project is to provide users with a user-friendly platform to track their income, expenses, and savings, allowing them to make informed financial decisions. PS: there are a few library errors shown in the reports of Axe and Lighthouse.
 
 
-# CS5610-Project-Four
-### Project 4 : Money Master (https://money-master-mern.onrender.com)
+# Money Master v2
+### Money Master (https://money-master-mern.onrender.com)
 #### [Money Master] 
-Based on JavaScript, CSS, HTML, and React, Vite, Express Node, Node JS, MongoDB.                                                                        
-CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)                         
-Northeastern University San Jose                                                    
-Instructor: John Alexis Guerra Gómez                                                                                          
- 
+Based on JavaScript, CSS, HTML, and React, Vite, Express Node, Node JS, MongoDB.    // I like this - adding the stack
 
+This is v2 version, with the main purpose of making the application more accessible, usable, and coherent. These are the added features to create this v2.0.0 version:
+- ...
+- ...
+- ...
+                                                                           
 ### Author:
 Created By: 
 [Peng Tao](https://github.com/tpwxpk120?tab=repositories) 
 
 ### Project Objective
 Our solution will integrate a vibrant front-end interface with a robust back-end database, offering users and restaurants the most streamlined method for making and managing dine-in reservations.
+
+CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2023/)                         
+Northeastern University San Jose                                                    
+Instructor: John Alexis Guerra Gómez 
 
 ### Features
 1) User Registration and Authentication:
@@ -48,7 +53,7 @@ Install project dependencies using npm in the backend: npm install
 Navigate into the directory:
 
 ```
-cd
+cd to root directory
 ```
 
 3. Install the required dependencies:
@@ -69,6 +74,10 @@ npm start
 [Color Palette]
 <img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/color.png">
 
+#### Typography used 
+- ...
+- ...
+
 [Homepage]
 <img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(291).png">
 
@@ -79,7 +88,7 @@ npm start
 [Login Page]
 <img width="1270" alt="Preview1" src="https://github.com/tpwxpk120/Money-Master-MERN/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(290).png">
 
-
+// add more screenshots
 
 
 ### Demonstration:
