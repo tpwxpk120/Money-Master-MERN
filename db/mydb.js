@@ -14,4 +14,9 @@ const connectToMongoDB = async () => {
   }
 };
 
+// you could try creating a myDB object - 
+// add all the CRUD operations to it and return that
+
+// and also add a different db file for different types of pages / user tasks
+
 export { connectToMongoDB };
