@@ -1,4 +1,4 @@
-// passport-config.js
+// passport-config.js - very good idea to extract all the code related to passport into its own directory, good code 
 import passport from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
 import { connectToMongoDB } from "../db/mydb.js";
